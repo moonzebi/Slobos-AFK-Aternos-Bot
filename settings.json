@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MOONSERVER",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Bienvenue sur MOONCRAFT !"
       ]
     },
     "chat-log": true,
